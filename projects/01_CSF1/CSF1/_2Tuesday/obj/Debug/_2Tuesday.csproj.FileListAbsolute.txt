@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\bin\Debug\_2Tuesday.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\bin\Debug\_2Tuesday.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\bin\Debug\_2Tuesday.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\obj\Debug\_2Tuesday.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\obj\Debug\_2Tuesday.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\obj\Debug\_2Tuesday.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_2Tuesday\obj\Debug\_2Tuesday.pdb

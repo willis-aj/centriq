@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\bin\Debug\_1Monday.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\bin\Debug\_1Monday.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\bin\Debug\_1Monday.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\obj\Debug\_1Monday.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\obj\Debug\_1Monday.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\obj\Debug\_1Monday.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1\_1Monday\obj\Debug\_1Monday.pdb
